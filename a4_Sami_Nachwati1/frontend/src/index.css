@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500&display=swap');
+
+html, body, body > div, .app {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+body {
+  font-family: 'Space Grotesk', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to bottom, #030029, #120d3c, #2a104e, #440e5e, #62006b);
+  color: white;
+  min-height: 100vh; /* This will make sure the gradient covers at least the full height of the viewport */
+}
+
+#search-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.css-1k9fzrs-MuiTableRow-root th{
+  font-family: "Space Grotesk", sans-serif;
+}
+
+td.css-1ex1afd-MuiTableCell-root{
+  font-family: "Space Grotesk", sans-serif;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+
+}
+
+
+.list {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+ul {
+  line-height: 75px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 30px 30px;
+  align-items: center;
+}
+
+nav img {
+  object-fit: contain;
+  width: 75px;
+  border-radius: 50%;
+}
+
+
+nav a {
+  color:aquamarine;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav a.active {
+  color:white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+
+figure, p, h1, h2, h4 {
+  text-align: center;
+}
+
+
+p, ul {
+  margin-bottom: 100px;
+}
+
+
+p {
+  text-align: center;
+  margin: 75px;
+}
+
+img {
+  width: 20%;
+}
+
+
+#table {
+  display: grid;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+
+.form-container{
+  display: grid;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#table-container{
+  display: grid;
+  text-align: center;
+  justify-content: center;
+  justify-items: center;
+}
+
+
+
+
+form{
+display: flex;
+}
+
+h3 {
+  text-align: center;
+}
+
+form div#form-container{
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  gap: 20px;
+}
+
+form div.form-elements {
+  display: flex;
+  gap: 20px;
+  justify-content: right;
+}
+
+form Button{
+  justify-self:last baseline;
+  width: 160px;
+}

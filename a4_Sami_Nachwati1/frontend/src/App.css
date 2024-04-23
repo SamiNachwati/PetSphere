@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500&display=swap');
+
+
+Table {
+  background-color: mediumaquamarine;
+}
+
+form input[type="text"], input[type="number"] {
+  background-color: mediumaquamarine;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: medium;
+}
+body, button {
+  font-size: 20px;
+}

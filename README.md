@@ -42,10 +42,9 @@
 
 ---
 
-## 🗂️ Project Structure
-
 # 📁 Project Structure
 
+```bash
 petsphere/
 ├── backend/
 │   ├── node.cjs
@@ -80,7 +79,7 @@ petsphere/
 ├── .gitignore
 ├── README.md
 └── LICENSE (optional)
-
+```
 
 ---
 ## ⚙️ Running Locally

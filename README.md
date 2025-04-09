@@ -118,6 +118,6 @@ Feel free to connect or check out more:
 
 
 
-## ⭐️ Support
+## Support
 
 If you like this project, consider giving it a ⭐️ on GitHub to show your support!

@@ -1,4 +1,4 @@
-# 🐾 PetSphere
+# PetSphere
 
 **PetSphere** is a full-stack web application that lets users browse adoptable pets and allows admins to manage pet inventory through a clean and user-friendly interface.
 
@@ -6,26 +6,26 @@
 
 
 
-## ✨ Features
+## Features
 
-- 🔍 **Search Functionality**  
+- **Search Functionality**  
   Search pets by name, type, description, age, or price.
 
-- 📦 **Inventory Management**  
+- **Inventory Management**  
   Add, edit, and delete pets easily with validation.
 
-- 🖼️ **Toggle View Modes**  
+- **Toggle View Modes**  
   Switch between table view and card view for a flexible browsing experience.
 
-- 📱 **Responsive Design**  
+- **Responsive Design**  
   Optimized layout for mobile and desktop.
 
-- 📬 **Contact Form**  
+- **Contact Form**  
   Mock contact form with toast notification (non-functional for now).
 
 
 
-## 🧱 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js
@@ -42,7 +42,7 @@
 
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 petsphere/
@@ -82,7 +82,7 @@ petsphere/
 ```
 
 
-## ⚙️ Running Locally
+## Running Locally
 
 ### 1. Clone the Repository
 
@@ -101,7 +101,7 @@ npm run dev
 
 ```
 
-## 🧾 Notes
+## Notes
 
 - This project is for demonstration purposes only.
 - Data is stored **in-memory** using SQLite and resets every time the server restarts.
@@ -109,7 +109,7 @@ npm run dev
 
 
 
-## 📫 Contact
+## Contact
 
 Feel free to connect or check out more:
 

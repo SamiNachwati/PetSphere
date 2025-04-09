@@ -148,11 +148,11 @@ app.get("/api",
 
 });
 
-// catch all case if no route found
-app.get('*',function (req, res) {
-  res.json({'error': 'route not found'});
-});
-
+// Catch-all fallback for undefined routes
+app.use((req, res) => {
+    res.status(404).json({ error: 'Route not found' });
+  });
+  
 
 // run the server
 const server = app.listen(3001, function(){

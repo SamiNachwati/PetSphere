@@ -42,7 +42,7 @@
 
 ---
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```bash
 petsphere/
@@ -113,11 +113,10 @@ npm run dev
 
 Feel free to connect or check out more:
 
-- [Instagram](https://instagram.com)
 - [GitHub](https://github.com/SamiNachwati)
-- [LinkedIn](https://linkedin.com)
+- [LinkedIn](https://www.linkedin.com/in/sami-nachwati-519288264/)
 
----
+
 
 ## ⭐️ Support
 

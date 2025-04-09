@@ -1,4 +1,4 @@
-# PetSphere
+# PetSphere | Pet Inventory Management System
 
 **PetSphere** is a full-stack web application that lets users browse adoptable pets and allows admins to manage pet inventory through a clean and user-friendly interface.
 

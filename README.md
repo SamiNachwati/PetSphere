@@ -4,7 +4,7 @@
 
 🔗 **Live Site:** [https://petsphere-app.onrender.com](https://petsphere-app.onrender.com)
 
----
+
 
 ## ✨ Features
 
@@ -23,7 +23,7 @@
 - 📬 **Contact Form**  
   Mock contact form with toast notification (non-functional for now).
 
----
+
 
 ## 🧱 Tech Stack
 
@@ -40,7 +40,7 @@
 - Express.js
 - SQLite3 (in-memory database)
 
----
+
 
 ## 📁 Project Structure
 
@@ -81,7 +81,7 @@ petsphere/
 └── LICENSE (optional)
 ```
 
----
+
 ## ⚙️ Running Locally
 
 ### 1. Clone the Repository
@@ -107,7 +107,7 @@ npm run dev
 - Data is stored **in-memory** using SQLite and resets every time the server restarts.
 - The contact form is **non-functional** and included for UI demonstration only.
 
----
+
 
 ## 📫 Contact
 
